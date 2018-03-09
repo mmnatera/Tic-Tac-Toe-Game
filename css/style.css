@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Rancho&effect=outline);
+
+body{
+background-color:pink;
+}
+
+h1 {
+  color: fuchsia;
+  font-size: 3em;
+  font-weight: bold;
+  padding-top: 100px;
+}
+
+h4 {
+  color: white;
+  padding-bottom: 50px;
+}
+
+.btn-outline-info {
+  font-size: 2em;
+  text-decoration-color: fuchsia;
+  margin-bottom: 50px;
+}
+
+.btn-outline-danger {
+  font-size: 2em;
+  text-decoration-color: fuchsia;
+  margin-bottom: 50px;
+}
+
+#row1 {
+  margin: auto;
+  
+}
+
+#row2 {
+  margin: auto;
+  
+}
+
+
+#row3 {
+  margin: auto;
+  
+}
